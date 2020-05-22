@@ -4,8 +4,10 @@ Version 1.0.0
 
 ## Summary
 
-Have you ever developed a section with img but finally cannot apply it to cover mode and need to rewrite the all codes?<br>
-Simple jQuery plugin can turn your image tag into background image immediately, so that you can transform it to what size you want.
+Have you ever developed a section with img but finally cannot apply it to cover mode and need to rewrite all codes?
+
+
+Simple jQuery plugin can turn your image tag into background image immediately, so that you can design what you want.
 
 ## Author
 
