@@ -85,8 +85,6 @@ Options: no-repeat(default), repeat, repeat-x, repeat-y
 Options: center center(default), you may also choose top, left, right, bottom
 
 
-
-
 All syntaxs are compatible with https://developer.mozilla.org/en-US/docs/Web/CSS/background
 
 ## License
