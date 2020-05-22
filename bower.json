@@ -1,0 +1,10 @@
+{
+  "name": "jquery.img2bg",
+  "version": "1.0.0",
+  "dependencies": {
+  	"jquery": ">=1.12.4"
+  },
+  "main": [
+    "jquery.img2bg.js"
+  ]
+}
