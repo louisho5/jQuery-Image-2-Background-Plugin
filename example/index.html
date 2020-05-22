@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>jQuery Plugin: Turn Image to Background</title>
+<script src="jquery.1.12.4.min.js"></script>
+<script src="../jquery.img2bg.js"></script>
+<style>
+img {
+	width: 250px;
+	height: 250px;
+}
+</style>
+</head>
+
+<body>
+
+<img src="https://images.unsplash.com/photo-1590005194861-af70fa800956">
+
+<img class="contain" src="https://images.unsplash.com/photo-1590005194861-af70fa800956">
+
+<img class="cover" src="https://images.unsplash.com/photo-1590005194861-af70fa800956">
+
+<script>
+$("img.contain").img2bg({
+	divSelector: ".selector-of-div", 	/*** ID(#selector) & class(.selector) are both accepted or just leave it blank ***/
+	imageSize: "contain", 				/*** cover, contain, auto... ***/
+	imageRepeat: "no-repeat",			/*** Options: repeat, repeat-x, repeat-y, no-repeat ***/
+	imagePosition: "center right"		/*** Options: center, top, left, right, bottom ***/
+});
+
+$("img.cover").img2bg();
+</script>
+
+</body>
+</html>
