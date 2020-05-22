@@ -8,7 +8,7 @@ Simple jQuery plugin to turn your image tag into background style immediately
 
 ## Author
 
-louisho5
+Louis Ho
 
 ## Installation
 
