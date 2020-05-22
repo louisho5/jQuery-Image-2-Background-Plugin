@@ -1,4 +1,4 @@
-# jQuery Turn Image into Background immediately
+# jQuery Turn Image into Background
 
 Version 1.0.0
 
