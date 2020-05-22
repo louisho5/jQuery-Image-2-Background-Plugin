@@ -68,7 +68,7 @@ There are totally 4 parameters are provided in this plugin:
 
 Options: ID(#selector) & class(.selector) are both accepted or leave it blank. 
 
-The parent <div /> will be generated with this ID/class
+The parent "<div>" will be generated with this ID/class
 
 	imageSize: "cover"		
 
