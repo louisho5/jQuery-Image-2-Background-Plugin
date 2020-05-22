@@ -60,7 +60,7 @@ Tested with jQuery 1.12.x.
 
 See 'index.html' in example folder.
 
-## Functions
+## Parameters
 
 NOTES: This plugin requires jQuery.
 
