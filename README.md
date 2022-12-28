@@ -11,7 +11,7 @@ Simple jQuery plugin can turn your image tag into background image immediately, 
 
 ## Author
 
-Louis Ho
+louisho5
 
 ## Installation
 
